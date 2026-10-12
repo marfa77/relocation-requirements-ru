@@ -7,6 +7,7 @@ date-released: 2026-10-12
 authors:
   - name: Emigro
     website: https://emigro.online
+doi: 10.5281/zenodo.23322169
 license: CC-BY-4.0
 repository-code: https://github.com/marfa77/relocation-requirements-ru
 url: https://marfa77.github.io/relocation-requirements-ru/
