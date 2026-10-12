@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "relocation-requirements-ru: Residence & visa program requirements"
+version: 1.0.0
+date-released: 2026-10-12
+authors:
+  - name: Emigro
+    website: https://emigro.online
+license: CC-BY-4.0
+repository-code: https://github.com/marfa77/relocation-requirements-ru
+url: https://marfa77.github.io/relocation-requirements-ru/
+keywords: [relocation, visa, digital nomad visa, residence permit, open data]
+abstract: "Machine-readable requirements (minimum income/funds, fees, duration, path to PR/citizenship) for key residence and visa programs in Portugal, Spain, Italy, Cyprus, Germany, Serbia, Georgia and Thailand, each sourced from official pages."

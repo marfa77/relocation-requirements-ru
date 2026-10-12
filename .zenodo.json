@@ -1,0 +1,37 @@
+{
+  "title": "relocation-requirements-ru: Residence & visa program requirements",
+  "upload_type": "dataset",
+  "description": "Open, machine-readable requirements for 13 key residence/visa programs in 8 countries (Portugal, Spain, Italy, Cyprus, Germany, Serbia, Georgia, Thailand): official minimum income/funds, fees, duration, path to PR/citizenship. Every value from an official source; unverifiable values are null. Bilingual (RU/EN).",
+  "creators": [
+    {
+      "name": "Emigro"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "relocation",
+    "visa",
+    "digital nomad",
+    "residence permit",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/marfa77/relocation-requirements-ru",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://emigro.online",
+      "relation": "isReferencedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://marfa77.github.io/relocation-requirements-ru/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open",
+  "version": "1.0.0"
+}
