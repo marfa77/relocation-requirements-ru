@@ -1,5 +1,7 @@
 # relocation-requirements-ru
 
+**Interactive demo:** [huggingface.co/spaces/pablo2319/relocation-visa-compare](https://huggingface.co/spaces/pablo2319/relocation-visa-compare)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322169.svg)](https://doi.org/10.5281/zenodo.23322169) [![PyPI](https://img.shields.io/pypi/v/relocation-requirements-ru.svg)](https://pypi.org/project/relocation-requirements-ru/)
 
 [![npm](https://img.shields.io/npm/v/relocation-requirements-ru.svg)](https://www.npmjs.com/package/relocation-requirements-ru)
