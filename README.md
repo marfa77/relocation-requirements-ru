@@ -1,6 +1,8 @@
 # relocation-requirements-ru
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322169.svg)](https://doi.org/10.5281/zenodo.23322169)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322169.svg)](https://doi.org/10.5281/zenodo.23322169) [![PyPI](https://img.shields.io/pypi/v/relocation-requirements-ru.svg)](https://pypi.org/project/relocation-requirements-ru/)
+
+Install: `pip install relocation-requirements-ru`
 
 **RU** · [EN](#english)
 

@@ -1,5 +1,9 @@
 # relocation-requirements-ru
 
+[![PyPI](https://img.shields.io/pypi/v/relocation-requirements-ru.svg)](https://pypi.org/project/relocation-requirements-ru/)
+
+Install: `pip install relocation-requirements-ru`
+
 **RU** · [EN](#english)
 
 Открытый машиночитаемый датасет требований **{{N}} ключевых программ ВНЖ и виз** в {{C}} странах: Португалия (D7, D8), Испания (digital nomad, non-lucrative), Италия (elective residence, digital nomad), Кипр (digital nomad, категория F), Германия (Голубая карта ЕС), Сербия (временный ВНЖ), Грузия (безвиз на год), Таиланд (DTV, LTR). Минимальный доход/средства, сборы, сроки, путь к ПМЖ/гражданству — **только из официальных источников** (`source_url`), проверено 2026-10-12. Не удалось подтвердить — `null`; ничего не угадано.
